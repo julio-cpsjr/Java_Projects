@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_Projects.iml" filepath="$PROJECT_DIR$/Java_Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-projects/banco-digital/banco-digital.iml" filepath="$PROJECT_DIR$/dio-projects/banco-digital/banco-digital.iml" />
       <module fileurl="file://$PROJECT_DIR$/dio-projects/conta-bancaria/conta-bancaria.iml" filepath="$PROJECT_DIR$/dio-projects/conta-bancaria/conta-bancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-projects/processo-seletivo/processo-seletivo.iml" filepath="$PROJECT_DIR$/dio-projects/processo-seletivo/processo-seletivo.iml" />
     </modules>
   </component>
 </project>
