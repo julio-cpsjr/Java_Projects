@@ -1,4 +1,4 @@
-public class aparelhoTelefonico {
+public class AparelhoTelefonico {
     static void ligar(){
         System.out.println("Ligando para ...");
     }

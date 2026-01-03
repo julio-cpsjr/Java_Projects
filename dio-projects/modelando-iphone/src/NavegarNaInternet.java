@@ -1,4 +1,4 @@
-public class navegarNaInternet {
+public class NavegarNaInternet {
     static void exibirPagina(){
         System.out.println("Abrindo navegador");
     }
