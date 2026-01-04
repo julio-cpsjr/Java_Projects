@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import br.com.dio.dominio.ProcessoSeletivo;
 
 public class Main {
       public static void main(String[] args) {
