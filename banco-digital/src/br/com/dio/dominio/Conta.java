@@ -20,7 +20,7 @@ public abstract class Conta implements IConta {
     public ArrayList<String> setContas(ArrayList<String> contaCP) {
         contaCP.add("Titular: " + this.cliente.getNome());
         contaCP.add("Agência: " + this.agencia);
-        contaCP.add("br.com.dio.dominio.Conta: " + this.numero);
+        contaCP.add("Conta: " + this.numero);
         contaCP.add("Saldo: " + this.saldo);
         return contaCP;
     }
